@@ -140,21 +140,13 @@ Examples:
 
 Phone QR codes are generated using the `tel:` format.
 
-## Screenshots
+## 📸 Screenshots
 
-Add screenshots here after capturing the app UI:
+### 🌞 Light Mode
+![QRify Pro Light Mode](./assets/screenshot-light.png)
 
-```text
-assets/screenshot-light.png
-assets/screenshot-dark.png
-```
-
-Example Markdown:
-
-```md
-![QRify Pro Light Mode](assets/screenshot-light.png)
-![QRify Pro Dark Mode](assets/screenshot-dark.png)
-```
+### 🌙 Dark Mode
+![QRify Pro Dark Mode](./assets/screenshot-dark.png)
 
 ## Notes
 
